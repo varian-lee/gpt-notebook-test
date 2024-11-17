@@ -1,0 +1,10 @@
+
+openai
+langchain
+langchain-community
+
+tiktoken
+faiss-cpu
+
+ddtrace
+python-dotenv
